@@ -1,3 +1,3 @@
 [submodule "test-submodule-01"]
 	path = test-submodule-01
-	url = git@gitea.aibix.io:aibix/test-submodule-01.git
+	url = ../test-submodule-01
